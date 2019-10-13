@@ -17,7 +17,7 @@ affiliations:
  - name: Disney Inc.
    index: 2
 date: 14 February 2016
-bibliography: paper.bib
+bibliography: pasper.bib
 ---
 
 # Summary
