@@ -11,7 +11,7 @@ authors:
  - name: Mickey Mouse
    orcid: 0000-0003-0872-7098
    affiliation: 2
-affilations:
+affiliations:
  - name: Space Telescope Science Insitute
    index: 1
  - name: Disney Inc.
